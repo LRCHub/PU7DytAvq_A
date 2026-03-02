@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "This song",
+  "base_artist": "Element Sicks",
+  "createdAt": "2026-03-02T14:11:17.477317Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don’t Wanna Write This Song",
+      "artist": "Brett Young",
+      "has_synced": true,
+      "path": "select/01_Don’t_Wanna_Write_This_Song_Brett_Young.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Debbie, Don't Send This Song To Others",
+      "artist": "My Little Airport",
+      "has_synced": true,
+      "path": "select/02_Debbie,_Don't_Send_This_Song_To_Others_My_Little_Airport.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "This Song",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/03_This_Song_George_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "This Song",
+      "artist": "Smoke City",
+      "has_synced": false,
+      "path": "select/04_This_Song_Smoke_City.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Wish This Song Was Louder (demo)",
+      "artist": "Electric Six",
+      "has_synced": false,
+      "path": "select/05_I_Wish_This_Song_Was_Louder_(demo)_Electric_Six.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Wish This Song Was Louder",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/06_I_Wish_This_Song_Was_Louder_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "This Song",
+      "artist": "Badly Drawn Boy",
+      "has_synced": true,
+      "path": "select/07_This_Song_Badly_Drawn_Boy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "This Song",
+      "artist": "Cassius",
+      "has_synced": false,
+      "path": "select/08_This_Song_Cassius.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "This Song",
+      "artist": "Grizzly Bear",
+      "has_synced": true,
+      "path": "select/09_This_Song_Grizzly_Bear.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "This Song (Dr. Cuerpo of the Double Remix)",
+      "artist": "Grizzly Bear",
+      "has_synced": false,
+      "path": "select/10_This_Song_(Dr._Cuerpo_of_the_Double_Remix)_Grizzly_Bear.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "This Song (Dr. Cuerpo Of The Double)",
+      "artist": "Grizzly Bear",
+      "has_synced": false,
+      "path": "select/11_This_Song_(Dr._Cuerpo_Of_The_Double)_Grizzly_Bear.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "This Song Has No Title",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/12_This_Song_Has_No_Title_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Can't Believe That You Would Fall for All the Crap in This Song",
+      "artist": "Sparks",
+      "has_synced": false,
+      "path": "select/13_I_Can't_Believe_That_You_Would_Fall_for_All_the_Crap_in_This_Song_Sparks.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "This Song Is Not About a Girl",
+      "artist": "Flume feat. Chet Faker",
+      "has_synced": true,
+      "path": "select/14_This_Song_Is_Not_About_a_Girl_Flume_feat._Chet_Faker.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "This song",
+      "artist": "Element Sicks",
+      "has_synced": false,
+      "path": "select/pl_01_This_song_Element_Sicks.txt"
+    }
+  ]
+}
